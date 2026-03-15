@@ -1,0 +1,10 @@
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\obj\Debug\TheZoo.csproj.AssemblyReference.cache
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\bin\Debug\Data\zoo_animals.db
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\bin\Debug\TheZoo.exe.config
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\bin\Debug\TheZoo.exe
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\bin\Debug\TheZoo.pdb
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\obj\Debug\TheZoo.Properties.Resources.resources
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\obj\Debug\TheZoo.csproj.GenerateResource.cache
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\obj\Debug\TheZoo.csproj.CoreCompileInputs.cache
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\obj\Debug\TheZoo.exe
+C:\Users\Echo\Desktop\Компьютерний проект\sqlite\10-V-1-TheZoo\TheZoo\TheZoo\obj\Debug\TheZoo.pdb
