@@ -28,13 +28,49 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.dgvZoos = new System.Windows.Forms.DataGridView();
+            this.dgvAnimals = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvZoos)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvAnimals)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // dgvZoos
+            // 
+            this.dgvZoos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvZoos.Location = new System.Drawing.Point(0, 0);
+            this.dgvZoos.Name = "dgvZoos";
+            this.dgvZoos.Size = new System.Drawing.Size(797, 222);
+            this.dgvZoos.TabIndex = 0;
+            this.dgvZoos.SelectionChanged += new System.EventHandler(this.dgvZoos_SelectionChanged);
+            // 
+            // dgvAnimals
+            // 
+            this.dgvAnimals.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvAnimals.Location = new System.Drawing.Point(0, 228);
+            this.dgvAnimals.Name = "dgvAnimals";
+            this.dgvAnimals.Size = new System.Drawing.Size(797, 222);
+            this.dgvAnimals.TabIndex = 1;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Controls.Add(this.dgvAnimals);
+            this.Controls.Add(this.dgvZoos);
+            this.Name = "Form1";
+            this.Text = "TheZoo";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvZoos)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvAnimals)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.DataGridView dgvZoos;
+        private System.Windows.Forms.DataGridView dgvAnimals;
     }
 }
 
