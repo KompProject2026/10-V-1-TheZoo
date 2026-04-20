@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\10-V-1-TheZoo\\10-V-1-TheZoo-main\\TheZoo\\",
+  "WorkspaceRootPath": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|C:\\Users\\Acer\\Desktop\\10-V-1-TheZoo\\10-V-1-TheZoo-main\\TheZoo\\thezoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|c:\\users\\echo\\desktop\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-v-1-thezoo\\thezoo\\thezoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|solutionrelative:thezoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|c:\\users\\echo\\desktop\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-v-1-thezoo\\thezoo\\thezoo\\animaleditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|solutionrelative:thezoo\\animaleditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\thezoo\\animaleditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|solutionrelative:thezoo\\animaleditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\thezoo\\zooeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|solutionrelative:thezoo\\zooeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\thezoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|solutionrelative:thezoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|c:\\users\\acer\\desktop\\10-v-1-thezoo\\10-v-1-thezoo-main\\thezoo\\thezoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|solutionrelative:thezoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\thezoo\\zooeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58107603-08F1-4D6E-9465-0D7178F156BA}|TheZoo\\TheZoo.csproj|solutionrelative:thezoo\\zooeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AnimalEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\AnimalEditForm.cs",
+              "RelativeDocumentMoniker": "TheZoo\\AnimalEditForm.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\AnimalEditForm.cs",
+              "RelativeToolTip": "TheZoo\\AnimalEditForm.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwIcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:28:29.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZooEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\ZooEditForm.cs",
+              "RelativeDocumentMoniker": "TheZoo\\ZooEditForm.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\ZooEditForm.cs [Design]",
+              "RelativeToolTip": "TheZoo\\ZooEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:24:20.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\AnimalEditForm.cs",
+              "RelativeDocumentMoniker": "TheZoo\\AnimalEditForm.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\AnimalEditForm.cs [Design]",
+              "RelativeToolTip": "TheZoo\\AnimalEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:24:18.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZooEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\ZooEditForm.cs",
+              "RelativeDocumentMoniker": "TheZoo\\ZooEditForm.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\ZooEditForm.cs",
+              "RelativeToolTip": "TheZoo\\ZooEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:28:39.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\10-V-1-TheZoo\\10-V-1-TheZoo-main\\TheZoo\\TheZoo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\Form1.cs",
               "RelativeDocumentMoniker": "TheZoo\\Form1.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\10-V-1-TheZoo\\10-V-1-TheZoo-main\\TheZoo\\TheZoo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\Form1.cs",
               "RelativeToolTip": "TheZoo\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAI4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T18:57:12.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\10-V-1-TheZoo\\10-V-1-TheZoo-main\\TheZoo\\TheZoo\\Form1.cs",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\Form1.cs",
               "RelativeDocumentMoniker": "TheZoo\\Form1.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\10-V-1-TheZoo\\10-V-1-TheZoo-main\\TheZoo\\TheZoo\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "TheZoo\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\sqlite\\10-V-1-TheZoo\\TheZoo\\TheZoo\\Form1.cs [Design]",
+              "RelativeToolTip": "TheZoo\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T19:38:04.313Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "EditorCaption": " [Design]"
             }
           ]
         }

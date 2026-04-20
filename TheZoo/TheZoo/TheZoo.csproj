@@ -97,6 +97,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnimalEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnimalEditForm.Designer.cs">
+      <DependentUpon>AnimalEditForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -105,8 +111,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ZooEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZooEditForm.Designer.cs">
+      <DependentUpon>ZooEditForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnimalEditForm.resx">
+      <DependentUpon>AnimalEditForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZooEditForm.resx">
+      <DependentUpon>ZooEditForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -130,6 +148,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <Content Include="Data\zoo_animals.db">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>zoo_animals.db</Link>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
